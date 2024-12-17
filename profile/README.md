@@ -11,8 +11,8 @@ At No-platforms, our mission is to build versatile, cross-platform solutions tha
 Our organization hosts a variety of projects aimed at improving productivity, enhancing collaboration, and simplifying workflows. Here are some of our key projects:
 
 - **Gitana CLI**: A command-line tool for generating Dockerized Git analytics, providing insights into commit history, contributor statistics, and branch management.
-- **Project Name 2**: A brief description of what this project does and its goals.
-- **Project Name 3**: A brief description of what this project does and its goals.
+- **TBShop**: A feature-rich Telegram bot for managing a shop with invoice generation, payment processing, and user management capabilities. Built with Node.js and MySQL..
+
 
 *Explore our [repository](https://github.com/No-platforms) to see all our projects!*
 
